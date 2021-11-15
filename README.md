@@ -21,6 +21,10 @@ npm install
 npm run dev
 ```
 
+It will be served on port 3000
+
+[http://localhost:3000/](http://localhost:3000/)
+
 ## Run build
 
 ```bash
@@ -32,3 +36,7 @@ npm run build
 ```bash
 npm run serve
 ```
+
+It will be served on port 5000
+
+[http://localhost:5000/](http://localhost:5000/)
